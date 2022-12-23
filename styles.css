@@ -3,3 +3,15 @@
   text-align:center;
   inline:block;
 }
+body {
+
+color:#e9e9ee;
+background-color:#6c6cb7;
+
+}
+div {
+  width: 300px;
+  border: 15px #262646;
+  padding: 0px;
+  margin: 0px;
+}
